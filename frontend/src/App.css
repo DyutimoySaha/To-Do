@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+form {
+  margin: 20px;
+}
+
+input,
+textarea,
+select,
+button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  width: 80%;
+}
+
+.task {
+  border: 1px solid #ccc;
+  margin: 10px;
+  padding: 10px;
+}
+
+.task.low {
+  background-color: #e0f7fa;
+}
+
+.task.medium {
+  background-color: #fff3e0;
+}
+
+.task.high {
+  background-color: #ffebee;
+}
+
+.task-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
