@@ -2,7 +2,7 @@ import requests
 import json
 
 # Your Trello API credentials
-API_KEY = '16b561075320fafda4e78f7c74f1b121' 
+API_KEY = 'API-KEY' 
 #ATCTT3xFfGN0afaxHt8O7-yGQ6hChneSjiATnP02Dvt4xu7HbVUt1f1rxe0Nbsx_XHJpU8GfgsZGzj-VVqwAJt7yP5abf3oIZ7WxK3VYAivoLq7I-2nvJsOa5xoC_4dUL6pW8z6LjsSSqJeMbfC3kvnLPt6PfNp3jVYGTpMs6yBguLgxvI-0Ckc=B188648D'
 API_TOKEN = 'ATTAc5cf594e3a6d37f9d75e7f9a315b8d9bb61a627ce4128169a347a54845e812b0F7ABDBC3'
 BOARD_ID = '66751a418bd27ab3c4f37f31'  # Replace with your Trello board ID f6d21ee4-05a1-403a-899d-248b52476426
